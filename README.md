@@ -1,5 +1,8 @@
 # AI Assistant Platform - Intelligent Chat Application
 
+## 🔗 Live Demo
+Access the live application here: **[https://ai-assistant-platform-seven.vercel.app](https://ai-assistant-platform-seven.vercel.app)**
+
 AI Assistant Platform is a modern, feature-rich conversational interface built using Next.js and the Vercel AI SDK. It supports real-time streaming, multi-session interactive chats, historical query persistence, and multiple LLM models.
 
 ## 🚀 Key Features
